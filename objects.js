@@ -1,3 +1,4 @@
+/*
 var playlist = new Object ({
   bayside: "duality"  });
 
@@ -10,3 +11,4 @@ function removeFromPlaylist(playlist, journey){
   delete playlist.journey;
   return playlist;
 }
+*/
