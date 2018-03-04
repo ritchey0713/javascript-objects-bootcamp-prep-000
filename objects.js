@@ -2,7 +2,7 @@
 var playlist = new Object ({
   bayside: "duality"  });
 
-function updatePlaylist (playlist,newBand, song){
+function updatePlaylist (playlist,artistName, song){
   playlist["Phil Ochs"] = "Here's to the State of Mississippi"
   return playlist;
 }
