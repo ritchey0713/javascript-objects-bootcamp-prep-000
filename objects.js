@@ -3,3 +3,4 @@ var playlist = {
   yellowCard: "ocean avenue"
   };
 
+function updatePlaylist ({playlist}, {journey}, {"faithfully"})
