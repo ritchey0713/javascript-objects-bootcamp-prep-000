@@ -4,5 +4,5 @@ var playlist = new Object ({
 
 function updatePlaylist (playlist,journey, faithfully){
   playlist["journey"] = "faithfully"
-  return playlist;
+  return updatePlaylist;
 }
