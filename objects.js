@@ -7,7 +7,7 @@ function updatePlaylist (playlist,band, song){
   return playlist;
 }
 
-function removeFromPlaylist(playlist, journey){
+function removeFromPlaylist(playlist, band){
   delete playlist.journey;
   return playlist;
 }
