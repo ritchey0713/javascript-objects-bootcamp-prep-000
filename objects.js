@@ -1,6 +1,5 @@
 var playlist = {
-  bayside: "duality",
-  yellowCard: "ocean avenue"
+  bayside: "duality"
   };
 
 function updatePlaylist (playlist,journey, faithfully){
