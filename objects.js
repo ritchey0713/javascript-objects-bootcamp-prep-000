@@ -1,4 +1,4 @@
-var playlist = new Object ({
+var playist = new Object ({
   bayside: "duality"
   })
 
