@@ -11,4 +11,3 @@ function removeFromPlaylist(playlist, journey){
   delete playlist.journey;
   return playlist;
 }
-  done();
