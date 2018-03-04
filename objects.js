@@ -2,8 +2,8 @@
 var playlist = new Object ({
   bayside: "duality"  });
 
-function updatePlaylist (playlist,journey, faithfully){
-  playlist["journey"] = "faithfully"
+function updatePlaylist (playlist,band, song){
+  playlist["Phil Ochs"] = "Here's to the State of Mississippi"
   return playlist;
 }
 
