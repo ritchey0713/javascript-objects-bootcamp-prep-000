@@ -8,7 +8,6 @@ function updatePlaylist (playlist,newBand, song){
 }
 
 function removeFromPlaylist(playlist, newRapper){
-playlist["Kanye"] = "Gold Digger"
 delete playlist.artistName
 return playlist
 }
