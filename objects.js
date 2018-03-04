@@ -3,6 +3,7 @@ var playlist = new Object ({
   })
 
 function updatePlaylist (playlist,journey, faithfully){
+ var update= updatePlaylist;
   playlist["journey"] = "faithfully"
-  return updatePlaylist;
+  return update;
 }
